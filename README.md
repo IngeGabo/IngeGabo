@@ -12,7 +12,7 @@
 - 🧠 Member of the Binary Brains community.
 - ⚡ I like to be constantly learning new things.
 
-<img align="Right" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+<img align="right" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
 
 # <picture> <img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture>&nbsp;Github Stats
