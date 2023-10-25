@@ -29,4 +29,5 @@
   </p>
  </div>
 </div>
+
 [linkedin]:https://www.linkedin.com/in/inggabrieljgg/
