@@ -14,7 +14,6 @@
 </div>
 <div align="center">
 
-### Lenguajes y Herramientas que utilizo:
 <div align="center">
   <!--contenido 1-->
   <div align="center"> 
@@ -30,3 +29,4 @@
   </p>
  </div>
 </div>
+[linkedin]:https://www.linkedin.com/in/inggabrieljgg/
