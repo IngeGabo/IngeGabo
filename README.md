@@ -6,7 +6,7 @@
 
 - :church: Computer Engineer.
 - 🧠 Member of the Binary Brains community.
-- ⚡ I like to be constantly learning things nuevas
+- ⚡ I like to be constantly learning new things.
 ## 📈 Stats 
 <div align ="center">
   <a href="https://github.com/IngeGabo">
