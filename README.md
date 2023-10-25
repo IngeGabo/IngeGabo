@@ -1,10 +1,10 @@
-### ¡Hola a todos! Mi nombre es Gabriel - aka [Gabo][linkedin] 👋
+### ¡Hello welcome! My name is Gabriel - aka [Gabo][linkedin] 👋
 
-## Soy estudiante y desarrollador de Software
+# I am a Student and Software Developer
 
-- :church: Ingeniero en Informática
-- :blue_heart: Miembro de la comunidad de Binary Brains
-- ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
+- :church: Computer Engineer.
+- 🧠 Member of the Binary Brains community.
+- ⚡ I like to be constantly learning things nuevas
 ## 📈 Stats 
 <div align ="center">
   <a href="https://github.com/IngeGabo">
@@ -29,5 +29,14 @@
   </p>
  </div>
 </div>
+
+### Social Media
+<div aling ="left">
+  <a href="https://www.linkedin.com/in/inggabrieljgg/"><img src="https://img.shields.io/badge/Linkedin-Connnect-blue?logo=linkedin&color=blue">
+  </a>
+    <a href="https://www.instagram.com/gabojgg1/"><img src="https://img.shields.io/badge/Instagram-Followme-AF34DA?logo=instagram&color=AF34DA">
+  </a>
+</div>
+
 
 [linkedin]:https://www.linkedin.com/in/inggabrieljgg/
